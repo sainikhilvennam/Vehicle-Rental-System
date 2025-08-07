@@ -16,7 +16,7 @@ namespace Vehicle_Rental_System
         static CustomerBLL customerBLL = new CustomerBLL();
         static VehicleBLL vehicleBLL = new VehicleBLL();
         static bool storageConfigured = false;
-        static int defaultStorageChoice = 1; // Default to SQL
+        static int defaultStorageChoice = 1; // Default to SQLgit add
         
         static async Task Main(string[] args)
         {
