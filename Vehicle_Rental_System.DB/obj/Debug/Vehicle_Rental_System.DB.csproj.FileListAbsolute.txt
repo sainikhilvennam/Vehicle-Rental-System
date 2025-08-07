@@ -1,7 +1,0 @@
-C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.DB\bin\Debug\Vehicle_Rental_System.DB.dll.config
-C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.DB\bin\Debug\Vehicle_Rental_System.DB.dll
-C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.DB\bin\Debug\Vehicle_Rental_System.DB.pdb
-C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.DB\obj\Debug\Vehicle_Rental_System.DB.csproj.AssemblyReference.cache
-C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.DB\obj\Debug\Vehicle_Rental_System.DB.csproj.CoreCompileInputs.cache
-C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.DB\obj\Debug\Vehicle_Rental_System.DB.dll
-C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.DB\obj\Debug\Vehicle_Rental_System.DB.pdb
