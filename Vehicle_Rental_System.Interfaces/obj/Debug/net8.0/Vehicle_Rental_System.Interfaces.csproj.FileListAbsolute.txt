@@ -1,0 +1,15 @@
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Interfaces\bin\Debug\net8.0\Vehicle_Rental_System.Interfaces.dll.config
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Interfaces\bin\Debug\net8.0\Vehicle_Rental_System.Interfaces.deps.json
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Interfaces\bin\Debug\net8.0\Vehicle_Rental_System.Interfaces.dll
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Interfaces\bin\Debug\net8.0\Vehicle_Rental_System.Interfaces.pdb
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Interfaces\bin\Debug\net8.0\Vehicle_Rental_System.MODEL.dll
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Interfaces\bin\Debug\net8.0\Vehicle_Rental_System.MODEL.pdb
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Interfaces\bin\Debug\net8.0\Vehicle_Rental_System.MODEL.dll.config
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Interfaces\obj\Debug\net8.0\Vehicle_Rental_System.Interfaces.csproj.AssemblyReference.cache
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Interfaces\obj\Debug\net8.0\Vehicle_Rental_System.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Interfaces\obj\Debug\net8.0\Vehicle_Rental_System.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Interfaces\obj\Debug\net8.0\Vehicle_.22522A00.Up2Date
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Interfaces\obj\Debug\net8.0\Vehicle_Rental_System.Interfaces.dll
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Interfaces\obj\Debug\net8.0\refint\Vehicle_Rental_System.Interfaces.dll
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Interfaces\obj\Debug\net8.0\Vehicle_Rental_System.Interfaces.pdb
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Interfaces\obj\Debug\net8.0\ref\Vehicle_Rental_System.Interfaces.dll

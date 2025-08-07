@@ -1,0 +1,5 @@
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System_Web\obj\Debug\net472\Vehicle_Rental_System_Web.csproj.AssemblyReference.cache
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System_Web\obj\Debug\net472\Vehicle_Rental_System_Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System_Web\obj\Debug\net472\Vehicle_Rental_System_Web.AssemblyInfoInputs.cache
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System_Web\obj\Debug\net472\Vehicle_Rental_System_Web.AssemblyInfo.cs
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System_Web\obj\Debug\net472\Vehicle_Rental_System_Web.csproj.CoreCompileInputs.cache

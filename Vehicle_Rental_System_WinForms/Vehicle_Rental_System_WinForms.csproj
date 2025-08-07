@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>Vehicle_Rental_System_WinForms</RootNamespace>
+    <AssemblyName>Vehicle_Rental_System_WinForms</AssemblyName>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Vehicle_Rental_System.BLL\Vehicle_Rental_System.BLL.csproj" />
+    <ProjectReference Include="..\Vehicle_Rental_System.DAO\Vehicle_Rental_System.DAL.csproj" />
+    <ProjectReference Include="..\Vehicle_Rental_System.Exceptions\Vehicle_Rental_System.Exceptions.csproj" />
+    <ProjectReference Include="..\Vehicle_Rental_System.Interfaces\Vehicle_Rental_System.Interfaces.csproj" />
+    <ProjectReference Include="..\Vehicle_Rental_System.MODEL\Vehicle_Rental_System.MODEL.csproj" />
+    <ProjectReference Include="..\Vehicle_Rental_System.Validations\Vehicle_Rental_System.Validations.csproj" />
+  </ItemGroup>
+
+</Project>

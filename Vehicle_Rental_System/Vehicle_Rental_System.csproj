@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Vehicle_Rental_System</RootNamespace>
+    <AssemblyName>Vehicle_Rental_System</AssemblyName>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Vehicle_Rental_System.BLL\Vehicle_Rental_System.BLL.csproj" />
+    <ProjectReference Include="..\Vehicle_Rental_System.DAO\Vehicle_Rental_System.DAL.csproj" />
+    <ProjectReference Include="..\Vehicle_Rental_System.Exceptions\Vehicle_Rental_System.Exceptions.csproj" />
+    <ProjectReference Include="..\Vehicle_Rental_System.Interfaces\Vehicle_Rental_System.Interfaces.csproj" />
+    <ProjectReference Include="..\Vehicle_Rental_System.MODEL\Vehicle_Rental_System.MODEL.csproj" />
+    <ProjectReference Include="..\Vehicle_Rental_System.Validations\Vehicle_Rental_System.Validations.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Data\**">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Exceptions\bin\Debug\net8.0\Vehicle_Rental_System.Exceptions.dll.config
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Exceptions\bin\Debug\net8.0\Vehicle_Rental_System.Exceptions.deps.json
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Exceptions\bin\Debug\net8.0\Vehicle_Rental_System.Exceptions.dll
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Exceptions\bin\Debug\net8.0\Vehicle_Rental_System.Exceptions.pdb
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Exceptions\obj\Debug\net8.0\Vehicle_Rental_System.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Exceptions\obj\Debug\net8.0\Vehicle_Rental_System.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Exceptions\obj\Debug\net8.0\Vehicle_Rental_System.Exceptions.dll
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Exceptions\obj\Debug\net8.0\refint\Vehicle_Rental_System.Exceptions.dll
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Exceptions\obj\Debug\net8.0\Vehicle_Rental_System.Exceptions.pdb
+C:\Users\vsainikhil\source\repos\Vehicle_Rental_System\Vehicle_Rental_System.Exceptions\obj\Debug\net8.0\ref\Vehicle_Rental_System.Exceptions.dll

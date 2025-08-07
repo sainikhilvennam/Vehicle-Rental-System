@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Vehicle_Rental_System.Validations</RootNamespace>
+    <AssemblyName>Vehicle_Rental_System.Validations</AssemblyName>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Vehicle_Rental_System.Exceptions\Vehicle_Rental_System.Exceptions.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+[
+  {
+    "Id": 1,
+    "BrandModel": "Toyota ",
+    "Mileage": "12",
+    "RegistrationNumber": "TS09AB6543",
+    "SeatingCapacity": "7",
+    "RentalRate": "200",
+    "IsAvailable": "Yes"
+  }
+]

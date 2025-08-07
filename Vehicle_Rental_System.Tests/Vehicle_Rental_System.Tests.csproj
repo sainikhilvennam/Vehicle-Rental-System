@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="coverlet.collector" Version="6.0.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
+    <PackageReference Include="Moq" Version="4.20.72" />
+    <PackageReference Include="xunit" Version="2.5.3" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.5.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Vehicle_Rental_System.BLL\Vehicle_Rental_System.BLL.csproj" />
+    <ProjectReference Include="..\Vehicle_Rental_System.DAO\Vehicle_Rental_System.DAL.csproj" />
+    <ProjectReference Include="..\Vehicle_Rental_System.Interfaces\Vehicle_Rental_System.Interfaces.csproj" />
+    <ProjectReference Include="..\Vehicle_Rental_System.MODEL\Vehicle_Rental_System.MODEL.csproj" />
+    <ProjectReference Include="..\Vehicle_Rental_System.Validations\Vehicle_Rental_System.Validations.csproj" />
+    <ProjectReference Include="..\Vehicle_Rental_System_WinForms\Vehicle_Rental_System_WinForms.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="Xunit" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Vehicle_Rental_System.BLL\Vehicle_Rental_System.BLL.csproj" />
+    <ProjectReference Include="..\Vehicle_Rental_System.DAO\Vehicle_Rental_System.DAL.csproj" />
+    <ProjectReference Include="..\Vehicle_Rental_System.Exceptions\Vehicle_Rental_System.Exceptions.csproj" />
+    <ProjectReference Include="..\Vehicle_Rental_System.Interfaces\Vehicle_Rental_System.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "revi",
+    "PhoneNumber": "8595875959",
+    "EmailId": "revi@gmail.com",
+    "Address": "lovetoday",
+    "Password": "Revi987"
+  },
+  {
+    "Id": 2,
+    "Name": "ram",
+    "PhoneNumber": "9876345263",
+    "EmailId": "ram@gmail.com",
+    "Address": "hyderabad",
+    "Password": "Ram6543"
+  },
+  {
+    "Id": 3,
+    "Name": "coolie",
+    "PhoneNumber": "7893452653",
+    "EmailId": "coolie@gmail.com",
+    "Address": "loki",
+    "Password": "Coolie2341"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "Name": "sainikhil",
+    "PhoneNumber": "8297004146",
+    "EmailId": "sai@9876.com",
+    "Address": "somajiguda",
+    "Password": "Sai44444"
+  },
+  {
+    "Id": 2,
+    "Name": "upender",
+    "PhoneNumber": "8187844146",
+    "EmailId": "upender@gmail.com",
+    "Address": "somajiguda",
+    "Password": "Uppi44566"
+  }
+]

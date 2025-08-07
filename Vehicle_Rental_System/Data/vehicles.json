@@ -1,0 +1,11 @@
+[
+  {
+    "Id": 1,
+    "BrandModel": "VW",
+    "Mileage": "22",
+    "RegistrationNumber": "TS09QW5618",
+    "SeatingCapacity": "5",
+    "RentalRate": "700",
+    "IsAvailable": "Available"
+  }
+]
